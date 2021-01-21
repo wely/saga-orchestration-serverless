@@ -30,7 +30,7 @@
     "CreateRandomReceiptResult": true,
     "ReceiptSuccessProbability": 100,
 
-    "AzureWebJobsStorage": "<storage connection string>",
+    "AzureWebJobsStorage": "<storage connection stringx>",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet"
   }
 }
